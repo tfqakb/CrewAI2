@@ -1,0 +1,19 @@
+langchain
+streamlit
+python-dotenv
+langgraph
+crewai
+langchain-core
+langchain-community
+langchain-groq
+langchain-classic
+Pydantic
+langchain-experimental
+langchain-tavily
+langchain-google-community
+uvicorn
+langchain-google-community[places]
+PyPDF2
+requests
+
+-e .
