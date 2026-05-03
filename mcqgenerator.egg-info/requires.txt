@@ -8,11 +8,9 @@ langchain-community
 langchain-groq
 langchain-classic
 Pydantic
+PyPDF2
 langchain-experimental
 langchain-tavily
 langchain-huggingface
 uvicorn
-PyPDF2
 requests
-
--e .
